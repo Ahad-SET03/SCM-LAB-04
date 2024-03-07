@@ -1,1 +1,2 @@
 cout<<"Adding two numbers"<<a+b<<endl;
+cout<<"Subtrating two numbers"<<a-b<<endl;
